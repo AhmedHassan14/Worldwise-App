@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Greater London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-10-01T07:19:50.974Z",
+      "notes": "My future is here",
+      "position": {
+        "lat": "51.4522952611087",
+        "lng": "-0.10986328125000001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Sharm el-Sheikh",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-10-02T11:04:15.967Z",
+      "notes": "My neer future is here!!",
+      "position": {
+        "lat": "27.857894086241977",
+        "lng": "34.30206298828126"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Hurghada",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-10-02T11:04:45.510Z",
+      "notes": "work hard to go there",
+      "position": {
+        "lat": "27.211109687840693",
+        "lng": "33.82965087890626"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Dublin",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2023-10-02T11:15:02.504Z",
+      "notes": "my futureeeee",
+      "position": {
+        "lat": "53.279656644382904",
+        "lng": "-6.240234375"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Banha",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-01-08T13:44:14.498Z",
+      "notes": "Army take me from my world...maybe it starts soon or ends soon,,,,New start with finishing MERN stack.",
+      "position": {
+        "lat": "30.430076590906335",
+        "lng": "31.223144531250004"
+      },
+      "id": 98443205
+    }
+  ]
+}
