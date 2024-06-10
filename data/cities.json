@@ -13,18 +13,6 @@
       "id": 73930385
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -47,18 +35,6 @@
         "lng": "-0.10986328125000001"
       },
       "id": 98443200
-    },
-    {
-      "cityName": "Sharm el-Sheikh",
-      "country": "Egypt",
-      "emoji": "🇪🇬",
-      "date": "2023-10-02T11:04:15.967Z",
-      "notes": "My neer future is here!!",
-      "position": {
-        "lat": "27.857894086241977",
-        "lng": "34.30206298828126"
-      },
-      "id": 98443202
     },
     {
       "cityName": "Hurghada",
@@ -85,16 +61,28 @@
       "id": 98443204
     },
     {
-      "cityName": "Banha",
-      "country": "Egypt",
-      "emoji": "🇪🇬",
-      "date": "2024-01-08T13:44:14.498Z",
-      "notes": "Army take me from my world...maybe it starts soon or ends soon,,,,New start with finishing MERN stack.",
+      "cityName": "Oslo",
+      "country": "Norway",
+      "emoji": "🇳🇴",
+      "date": "2024-06-10T19:28:15.792Z",
+      "notes": "Nice orora we are coming soonnnnn!",
       "position": {
-        "lat": "30.430076590906335",
-        "lng": "31.223144531250004"
+        "lat": "59.910607614356216",
+        "lng": "10.832569299510954"
       },
-      "id": 98443205
+      "id": 98443206
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-06-10T20:24:43.478Z",
+      "notes": "Fuck this now",
+      "position": {
+        "lat": "40.36493912699547",
+        "lng": "-3.7353515625000004"
+      },
+      "id": 98443207
     }
   ]
 }
