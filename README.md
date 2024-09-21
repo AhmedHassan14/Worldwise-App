@@ -1,8 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ Full-stack web application that helps users keep track of cities and countries they have visited throughout their journey across the world using a visual map.
+•	Displays pins on the map for visited locations.
+•	Provides a list of places visited.
+•	Includes a button to center the map on the user's current location.
+Technologies Used: React Router, Context API, memo, useMemo, useCallback
